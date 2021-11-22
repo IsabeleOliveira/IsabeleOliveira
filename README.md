@@ -2,6 +2,7 @@
 
 - 🌱 Estou estudando C e Python
 - 😄 Pronouns: ela/dela
+- 🏫 Cursando Ciência da Computação - UFC
 
 <div align="center">
   <a href="https://github.com/IsabeleOliveira">

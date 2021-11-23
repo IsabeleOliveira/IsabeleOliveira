@@ -1,8 +1,9 @@
-### Olá!Eu sou Isabele Oliveira Hi.gif
+### Olá!Eu sou Isabele Oliveira <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
+- 🏫 Cursando Ciência da Computação - UFC
 - 🌱 Estou estudando C e Python
 - 😄 Pronouns: ela/dela
-- 🏫 Cursando Ciência da Computação - UFC
+
 
 <div align="center">
   <a href="https://github.com/IsabeleOliveira">
@@ -12,7 +13,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Isa-C" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Isa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right"  alt="Isa-yoda" height="180" src="https://i.picasion.com/pic91/941495dfa0b66a34a43fdaf8921d731a.gif"
 </div>
 
@@ -22,4 +23,4 @@
   <a href="https://instagram.com/isaoliveirals" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatobeleoliveirals4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabele-oliveira-492788211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  

@@ -8,13 +8,13 @@
 <div align="center">
   <a href="https://github.com/IsabeleOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsabeleOliveira&show_icons=False&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeleOliveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabeleOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Isa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right"  alt="Isa-yoda" height="180" src="https://i.picasion.com/pic91/941495dfa0b66a34a43fdaf8921d731a.gif"
+  <img align="right"  alt="Isa-gif" height="180" src="https://i.picasion.com/pic91/941495dfa0b66a34a43fdaf8921d731a.gif"
 </div>
 
    ##

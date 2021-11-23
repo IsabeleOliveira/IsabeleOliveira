@@ -1,4 +1,4 @@
-### Olá!Eu sou Isabele Oliveira
+### Olá!Eu sou Isabele Oliveira Hi.gif
 
 - 🌱 Estou estudando C e Python
 - 😄 Pronouns: ela/dela

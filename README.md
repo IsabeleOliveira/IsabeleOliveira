@@ -16,8 +16,6 @@
   <img align="center" alt="Isa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right"  alt="Isa-gif" height="180" src="https://i.picasion.com/pic91/941495dfa0b66a34a43fdaf8921d731a.gif"
 </div>
-
-   ##
   
 <div> 
   <a href="https://instagram.com/isaoliveirals" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

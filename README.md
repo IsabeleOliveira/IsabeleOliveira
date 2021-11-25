@@ -1,4 +1,4 @@
-### Olá!Eu sou Isabele Oliveira <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+### Hi! I'am Isabele Oliveira <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
 - 🏫 Cursando Ciência da Computação - UFC
 - 🌱 Estou estudando C e Python

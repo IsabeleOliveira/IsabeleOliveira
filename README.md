@@ -1,8 +1,8 @@
 ### Hi! I'am Isabele Oliveira <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-- 🏫 Cursando Ciência da Computação - UFC
-- 🌱 Estou estudando C e Python
-- 😄 Pronouns: ela/dela
+- 🏫 Studying Computer Science - UFC 
+- 🌱 I'm studying C and Python 
+- 😄 Pronouns: she/her
 
 
 <div align="center">
@@ -16,7 +16,10 @@
   <img align="center" alt="Isa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="right"  alt="Isa-gif" height="180" src="https://i.picasion.com/pic91/941495dfa0b66a34a43fdaf8921d731a.gif"
 </div>
-  
+    
+  ##
+    
+<h3 align="left">Connect with me:</h3>    
 <div> 
   <a href="https://instagram.com/isaoliveirals" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatobeleoliveirals4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>

@@ -1,7 +1,6 @@
 ### Hi! I'am Isabele Oliveira <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
 - 🏫 Studying Computer Science - UFC 
-- 🌱 Starting to study HTML and CSS, and soon I'll start JavaScript  
 - 😄 Pronouns: she/her
 
 

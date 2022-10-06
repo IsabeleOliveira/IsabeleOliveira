@@ -17,6 +17,7 @@
   <img align="center" alt="Isa-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
   <img align="center" alt="Isa-Java" height="30" widht="40" src="https://devicons.herokuapp.com/java-original.svg">  
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="right"  alt="Isa-gif" height="180" src="https://camo.githubusercontent.com/7b0e32dde0195f0b41b5a05cb0aa34256fcf84a10b819c80b41607c2eb20acef/68747470733a2f2f692e7069636173696f6e2e636f6d2f70696339312f39343134393564666130623636613334613433666461663839323164373331612e676966"
  
 </div>

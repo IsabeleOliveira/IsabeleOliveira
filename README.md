@@ -1,6 +1,6 @@
 ### Hi! I'am Isabele Oliveira <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-- 🏫 Studying Software Enginner - UFC 
+- 🏫 Studying Software Engineer - UFC 
 - 😄 Pronouns: she/her
 
 
